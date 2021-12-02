@@ -22,4 +22,3 @@ Hi!
 ![Cypress](https://img.shields.io/badge/-cypress-black?logo=cypress&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-2C2C32?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge)
 
-![CatGif](https://media.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif)
