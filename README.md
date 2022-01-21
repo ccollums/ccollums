@@ -1,11 +1,11 @@
 Hi! 👋🏻
 I am a Software Engineer living in Denver, CO.
 
-😄 My Pronouns: She/Her
-💬 Ask me about: Javascript, React, React Router, Cypress, HTML/CSS or dogs.
-🌱 I’m currently learning Typescript, and about Progressive Web Apps.
-📫 How to reach me: carlycollums@gmail.com
-⚡ Fun fact: During my undergrad I recieved a minor in drawing. 🎨
+- 😄 My Pronouns: She/Her
+- 💬 Ask me about: Javascript, React, React Router, Cypress, HTML/CSS or dogs.
+- 🌱 I’m currently learning Typescript, and about Progressive Web Apps.
+- 📫 How to reach me: carlycollums@gmail.com
+- ⚡ Fun fact: During my undergrad I recieved a minor in drawing. 🎨
 
 ![Carly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccollums&show_icons=true&theme=nightowl)
 
