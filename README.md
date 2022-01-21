@@ -7,8 +7,6 @@ I am a Software Engineer living in Denver, CO.
 - 📫 How to reach me: carlycollums@gmail.com
 - ⚡ Fun fact: During my undergrad I recieved a minor in drawing. 🎨
 
-![Carly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccollums&show_icons=true&theme=nightowl)
-
 ## ⚡️ Technologies 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,3 +28,5 @@ I am a Software Engineer living in Denver, CO.
 ![Cypress](https://img.shields.io/badge/-cypress-black?logo=cypress&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-2C2C32?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge)
 
+
+![Carly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccollums&show_icons=true&theme=nightowl)
